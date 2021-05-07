@@ -1,5 +1,5 @@
 # RETO1_SEMANA1
-# ![](https://media.istockphoto.com/vectors/academy-cap-icon-vector-isolated-contour-symbol-illustration-vector-id1206170156?k=6&m=1206170156&s=612x612&w=0&h=XWf5mWFe8d43RddtQRPbVFeoE2X1qwke0Ke9RFyRDg4=)GIA CONCEPTUAL
+# ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs1RzRRZ7oqDzhNFKWfTXlPjIuzObEbWHxSg&usqp=CAU)**GIA CONCEPTUAL
 
 ## °concepto 1
 
