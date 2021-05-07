@@ -20,3 +20,7 @@
 
 ## concepto 10
 
+Open the file containing the Linux mascot.
+Marvel at its beauty.
+![Tux, the Linux mascot](/assets/images/tux.png)
+Close the file.
