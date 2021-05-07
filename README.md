@@ -1,5 +1,6 @@
 # RETO1_SEMANA1
-# ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs1RzRRZ7oqDzhNFKWfTXlPjIuzObEbWHxSg&usqp=CAU)**GIA CONCEPTUAL
+# **GIA CONCEPTUAL
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs1RzRRZ7oqDzhNFKWfTXlPjIuzObEbWHxSg&usqp=CAU)
 
 ## °concepto 1
 
