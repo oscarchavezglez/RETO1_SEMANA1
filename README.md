@@ -56,7 +56,7 @@ La IaaS se debe a las fluctuaciones y aumenta o disminuye rápidamente con la de
 Entre las grandes ventajas de IaaS se encuentra el eliminar el gasto de capital y reducir los costes corrientes, innovar con rapidez (vamos, tan pronto como se decida comercializar un nuevo producto) y, por supuesto, el aumento proporcional de la seguridad.
 
 Una vez metidos en los entresijos de La Nube, ¿te apetece dar una vuelta? ¿Ir aún más lejos en el mundo de la tecnología? ¿Conoces Pandora FMS? Pandora FMS es un sistema de monitorización flexible, capaz de monitorizar dispositivos, infraestructuras, aplicaciones, servicios y procesos de negocio.
-![IaaS_Mesa-de-trabajo-1-980x1024](https://user-images.githubusercontent.com/83797716/117519751-818fa100-af6a-11eb-9ce0-dcdabf044275.jpg)
+![](https://user-images.githubusercontent.com/83797716/117519751-818fa100-af6a-11eb-9ce0-dcdabf044275.jpg)
 
 
 ## Sistema embebido 
