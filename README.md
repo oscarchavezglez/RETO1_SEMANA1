@@ -34,6 +34,9 @@ El modelo OSI no es la definición de una topología ni un modelo de red en sí 
 Los ejemplos más comunes de este tipo de servicio en La Nube (SaaS) te van a sonar bastante. Solo hay que pensar en el correo electrónico y en herramientas ofimáticas. Y es que el Software como servicio (SaaS) nos da la oportunidad a los usuarios de conectarnos a aplicaciones basadas en La Nube, hacerlo a través de La Red y usarlas.
 
 El Software as a Service brinda una solución de software integral, que se consigue a partir de un proveedor de servicios en La Nube, a través de un modelo de pago por empleo. Alquilas el empleo de una aplicación para tu empresa y los benditos usuarios se conectan a ella mediante La Red. Toda la infraestructura que lo mantiene y la información de las aplicaciones se encuentran en el centro de información del señor proveedor. El proveedor de servicios es el que se encarga de todo el hardware y el software y debe garantizar también la disponibilidad y la seguridad tanto de la aplicación como de la información que utiliza. Este tipo de servicio (SaaS) hace que una empresa se pueda poner en marcha y ejecutar sus aplicaciones con un bajo coste inicial.
+      ![E3-1](https://user-images.githubusercontent.com/83797716/117519593-ce26ac80-af69-11eb-98a4-613d766b24d5.jpg)
+       )
+
 
 ## Platform as a Service (PaaS)
 
