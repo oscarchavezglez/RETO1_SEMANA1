@@ -16,6 +16,7 @@ El Kernel o núcleo de un sistema operativo sirve para administrar los recursos 
 
 ## Dirección IP 
 La dirección IP es un conjunto de números que identifica, de manera lógica y jerárquica, a una interfaz en la red (elemento de comunicación/conexión) de un dispositivo (computadora, laptop, teléfono inteligente) que utilice el protocolo (Internet Protocol) o, que corresponde al nivel de red del modelo TCP/IP La dirección IP no debe confundirse con la dirección MAC, que es un identificador de 48 bits expresado en código hexadecimal, para identificar de forma única la tarjeta de red y no depende del protocolo de conexión utilizado en la red.
+![026544da85249446582e48b4a3a5a7cd](https://user-images.githubusercontent.com/83797716/117519455-30cb7880-af69-11eb-99f4-9145761fc612.png)
 ## Modelo OSI 
 El modelo de interconexión de sistemas abiertos (ISO/IEC 7498-1), más conocido como “modelo OSI”, (en inglés, Open Systems Interconnection) es un modelo de referencia para los protocolos de la red (no es una arquitectura de red), creado en el año 1980 por la Organización Internacional de Normalización  Se ha publicado desde 1983 por la Unión Internacional de Telecomunicaciones (UIT) y, desde 1984, la Organización Internacional de Normalización (ISO) también lo publicó con estándar Su desarrollo comenzó en 1977.3
 
