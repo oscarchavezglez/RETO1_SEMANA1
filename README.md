@@ -47,6 +47,7 @@ Funciona de la siguiente manera: le compras los recursos que necesitas a un prov
 Al igual que IaaS, del que hablaremos luego, PaaS cuenta con una infraestructura de servidores, tipos de almacenamiento y redes, además de incluir middleware, herramientas de desarrollo, servicios de inteligencia empresarial, sistemas de administración de bases de datos y mucho más. La Plataforma como Servicio está diseñada para aguantar entre sus manos lo que podríamos llamar “el ciclo de vida completo de una aplicación web”; eso es desde la compilación, las pruebas y la implementación hasta la administración y la actualización.
 
 Respecto a la parte pragmática, la Plataforma como Servicio nos evitará los gastos que suponen la compra y la administración de licencias de software o la infraestructura de las aplicaciones. También las inversiones en el middleware subyacentes, las herramientas de desarrollo y otros muchos recursos. Tú podrás administrar las aplicaciones y los servicios que ellas desarrollan y el proveedor todo lo demás. 
+![cloud](https://user-images.githubusercontent.com/83797716/117519696-41c8b980-af6a-11eb-8ba1-3449c80a8fa5.png)
 ## Infrastructure as a Service (IaaS)
 
 La IaaS o Infraestructura como Servicio es una infraestructura de computación instantánea, suministrada y gestionada a través de La Red.
