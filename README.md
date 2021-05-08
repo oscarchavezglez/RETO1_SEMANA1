@@ -56,6 +56,8 @@ La IaaS se debe a las fluctuaciones y aumenta o disminuye rápidamente con la de
 Entre las grandes ventajas de IaaS se encuentra el eliminar el gasto de capital y reducir los costes corrientes, innovar con rapidez (vamos, tan pronto como se decida comercializar un nuevo producto) y, por supuesto, el aumento proporcional de la seguridad.
 
 Una vez metidos en los entresijos de La Nube, ¿te apetece dar una vuelta? ¿Ir aún más lejos en el mundo de la tecnología? ¿Conoces Pandora FMS? Pandora FMS es un sistema de monitorización flexible, capaz de monitorizar dispositivos, infraestructuras, aplicaciones, servicios y procesos de negocio.
+![IaaS_Mesa-de-trabajo-1-980x1024](https://user-images.githubusercontent.com/83797716/117519751-818fa100-af6a-11eb-9ce0-dcdabf044275.jpg)
+
 
 ## Sistema embebido 
 Un sistema embebido o empotrado (integrado, incrustado) es un sistema de computación diseñado para realizar una o algunas pocas funciones dedicadas, frecuentemente en un sistema de computación en tiempo real. Al contrario de lo que ocurre con los ordenadores de propósito general (como por ejemplo una computadora personal o PC) que están diseñados para cubrir una amplia gama de necesidades, los sistemas embebidos se diseñan para cubrir necesidades específicas
